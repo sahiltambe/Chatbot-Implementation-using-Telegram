@@ -83,6 +83,8 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 - `python-telegram-bot`
 - `openai`
 
-## Contributors
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
-- Sahil (sahiltambe1996@gmail.com)
+## Contact
+For any questions or support, please contact [sahiltambe1996@gmail.com](mailto:sahiltambe1996@gmail.com).
